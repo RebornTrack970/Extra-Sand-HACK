@@ -30,6 +30,6 @@ idleSoundVolume: 2
 sync: false
 outputItem: normalsand/1
 outputLiquid: {
-  liquid: supercoolant
+  liquid: creativecoolant
   amount: 1
 }
