@@ -29,7 +29,3 @@ idleSound: completelynormalsandforgery
 idleSoundVolume: 2
 sync: false
 outputItem: normalsand/1
-outputLiquid: {
-  liquid: creativecoolant
-  amount: 1
-}
