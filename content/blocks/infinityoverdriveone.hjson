@@ -1,0 +1,20 @@
+type: OverdriveProjector
+localizedName: Infinite Overdrive Power One
+description: An Overdrive with infinite range. Same boosts as the original.
+health: 500
+range: 2000
+hasPower: false
+consumes: {
+  items: {
+    items: [
+      phase-fabric/1
+    ]
+    booster: true
+    optional: true
+  }
+}
+category: effect
+requirements: [
+  normalsand/1
+]
+research: overdrive-projector

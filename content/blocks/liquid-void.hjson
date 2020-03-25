@@ -1,0 +1,12 @@
+buildVisibility: shown
+description:
+  '''
+  Infinitely destroys liquids.
+  [green]Now avalable in campaign due to the Extra Sand in the Sandbox Mod!
+  '''
+health: 169
+alwaysUnlocked: false
+requirements: [
+  normalsand/1
+]
+research: liquid-tank

@@ -1,0 +1,12 @@
+type: Vault
+name: Really Big Box
+description: Thanks, I really needed the extra storage!
+health: 750
+itemCapacity: 1000000
+size: 8
+rotate: true
+category: effect
+requirements: [
+  normalsand/1
+]
+research: vault

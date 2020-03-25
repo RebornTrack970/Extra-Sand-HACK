@@ -1,0 +1,11 @@
+localizedName: "[#FF0000]Super Junction[]"
+description: A junction with faster transfer and higher capacity.
+type: Junction
+speed: 1
+health: 50
+capacity: 69
+category: distribution
+requirements: [
+  normalsand/1
+]
+research: spedconveyor

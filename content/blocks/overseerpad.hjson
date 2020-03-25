@@ -1,0 +1,12 @@
+localizedName: Overseer Mech Pad
+description: Transforms you into the sandbox ship,the Overseer.
+type: MechPad
+mech: overseer
+health: 5000
+hasPower: false
+buildTime: 0
+category: upgrade
+requirements: [
+  normalsand/1
+]
+research: glaive-ship-pad

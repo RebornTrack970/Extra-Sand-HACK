@@ -1,0 +1,13 @@
+type: SurgeWall
+name: Super Zappy Wall
+description: A powerful surge lightning wall.
+health: 6942069
+group: walls
+lightningChance: 5
+lightningDamage: 100
+lightningLength: 200
+category: defense
+requirements: [
+  normalsand/1
+]
+research: superwall

@@ -1,0 +1,16 @@
+name: Portable Core
+description:
+  '''
+  Place it down to pull stuff from the core from anywhere!
+  
+  [red]WARNING: Can't be deconstructed. Only destroyed.
+  '''
+type: CoreBlock
+breakable: true
+health: 1
+size: 3
+category: effect
+requirements: [
+  normalsand/1
+]
+research: vault

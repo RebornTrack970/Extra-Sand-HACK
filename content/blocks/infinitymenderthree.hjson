@@ -1,0 +1,21 @@
+type: MendProjector
+localizedName: Infinite Mender Power Three
+reload: 1
+description: A Mender with infinite range. Quadruple the mending compared to the original.
+health: 700
+range: 2000
+hasPower: false
+consumes: {
+  items: {
+    items: [
+      phase-fabric/1
+    ]
+    booster: true
+    optional: true
+  }
+}
+category: effect
+requirements: [
+  normalsand/1
+]
+research: infinitymendertwo
